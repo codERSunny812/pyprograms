@@ -1,0 +1,17 @@
+str="hey it\'s sunny here "
+print(str.capitalize())
+print(str.casefold())
+print(str.center(50))
+print(str.count('n'))
+print(str.encode())
+print(str.endswith('r'))
+print(str.expandtabs(4))
+print(str.find())
+print(str.format())
+print(str.format_map())
+print(str.index())
+print(str.isalnum())
+print(str.isalpha())
+print(str.isdecimal())
+print(str.isidentifier())
+
